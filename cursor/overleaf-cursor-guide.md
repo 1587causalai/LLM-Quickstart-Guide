@@ -16,7 +16,7 @@
    - 强大的代码补全
    - 快捷的编译预览
 
-## 三、设置步骤
+## 三、设置步骤和使用方法
 
 
 ### 1. 获取 Overleaf Cookie
@@ -36,32 +36,30 @@
 ![获取 Overleaf Cookie](https://raw.githubusercontent.com/iamhyc/Overleaf-Workshop/master/docs/assets/login_with_cookie.png)
 
 ### 2. 配置 Cursor
-1. 打开 Cursor 的插件市场，搜索 Overleaf Workshop 并安装. 
-2. 配置Overleaf连接, 复制Cookie到插件设置.
+1. 打开插件市场，搜索 Overleaf Workshop 并安装. 
+2. 配置 Overleaf Workshop 连接, 选择 Login with Cookie, 将 Cookie 粘贴到输入框中.
 
 ![Cursor 配置 Overleaf 连接](https://raw.githubusercontent.com/iamhyc/Overleaf-Workshop/master/docs/assets/demo01-login.gif)
 
 
-## 四、使用方法
-
-### 1. 基本操作快捷键
+### 3. 基本操作快捷键
 - `opt+Alt+B`: 编译文档
 - `opt+Alt+V`: 预览PDF
 - `opt+Alt+J`: 跳转到PDF位置
 - 在PDF中双击: 跳转到源代码位置
 
-### 2. 项目管理
+### 4. 项目管理
 - 使用"Open Project Locally"在本地打开项目
 - 通过LaTeX-Workshop进行编译和预览
 - 更改自动同步到Overleaf
 
-### 3. 协同工作流程
+### 5. 协同工作流程
 1. Overleaf创建项目
 2. 使用Cookie连接本地编辑器
 3. 进行本地编辑
 4. 更改自动同步
 5. 协作者实时查看更改
 
-## 五、总结
+## 四、总结
 
 Overleaf + Cursor的组合为学术写作提供了强大的工具链。通过合理配置和使用，可以显著提高论文写作的效率和体验。
